@@ -177,4 +177,4 @@ Note: Places marked with * are beyond India
 ## Contributors
 Append your name/link to this list.
 
-[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)
+[gv-sh](https://twitter.com/gvsh_maths), [Simran Singh](https://twitter.com/simraan98)
